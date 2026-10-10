@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I am an **AI & Machine Learning Engineer** with a Master of Computer Applications (MCA) and a B.Sc. in Statistics and Mathematics. Combining my strong mathematical foundation with practical experience as a Data Analytics Intern at GeeksforGeeks, I engineer intelligent, scalable, and data-driven solutions.
+I am Mohammad Anas an **AI & Machine Learning Engineer** with a Master of Computer Applications (MCA) and a B.Sc. in Statistics and Mathematics. Combining my strong mathematical foundation with practical experience as a Data Analytics Intern at GeeksforGeeks, I engineer intelligent, scalable, and data-driven solutions.
 
 My hands-on technical work spans **Generative AI applications, autonomous agents, multimodal AI systems, machine learning models, data pipelines, and Python-based APIs**. I specialize in building end-to-end applications using frameworks like LangGraph, LangChain, RAG architectures, and FastAPI, ultimately deploying reliable ML systems to the cloud.
 
