@@ -148,7 +148,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
       <img src="assets/tech-icons/crewai.svg" width="48" height="48" alt="CrewAI" /><br>CrewAI
     </td>
     <td align="center" width="90">
-      <img src="assets/tech-icons/llamaindex.png" width="48" height="48" alt="LlamaIndex" /><br>LlamaIndex
+      <img src="assets/tech-icons/llamaindex.svg" width="48" height="48" alt="LlamaIndex" /><br>LlamaIndex
     </td>
   </tr>
 </table>
