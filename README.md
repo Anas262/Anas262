@@ -89,17 +89,19 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 *(Skills listed below reflect verified tools utilized in public projects or supported by my professional experience.)*
 
-- **A. Programming & Software Engineering:** Python, SQL, JavaScript, TypeScript, HTML, CSS, Git, GitHub, OOP, APIs
-- **B. Generative AI & Large Language Models:** LLMs, RAG, Prompt Engineering, Context Engineering, LangChain, LangGraph, LlamaIndex, CrewAI, Gemini, Claude, OpenAI APIs, Groq, Tool Calling, Structured Outputs, Embeddings
-- **C. Agentic AI & Automation:** Autonomous Agents, Agentic Workflows, Tool Orchestration, Persistent Memory, State Management, Multi-Agent Architectures, n8n, Workflow Automation, MCP
-- **D. Machine Learning Engineering:** Scikit-learn, Regression, Classification, Feature Engineering, Hyperparameter Tuning, Cross-Validation, Model Evaluation, Model Serving, Inference APIs
-- **E. Deep Learning & Multimodal AI:** PyTorch, TensorFlow, Neural Networks, CNNs, RNNs, Transformers, Hugging Face, Whisper, Vision-Language Models, Speech Processing, OpenCV, Multimodal Inference
-- **F. Data Science:** Statistics, Probability, EDA, Predictive Modeling, Feature Selection, Experimentation, Forecasting, Pandas, NumPy, Data Visualization
-- **G. Data Analytics & Business Intelligence:** SQL Analytics, Excel, Power BI, Dashboards, KPI Reporting, Data Cleaning, Data Transformation, Business Reporting
-- **H. Data Engineering:** ETL/ELT, Data Pipelines, SQL Databases, PostgreSQL, MySQL, MongoDB, PySpark, Apache Airflow, dbt, Data Modeling
-- **I. Vector Databases & Search:** FAISS, ChromaDB, Pinecone, Weaviate, Vector Search, Semantic Retrieval, Hybrid Search, Reranking
-- **J. Backend & Full-Stack Development:** FastAPI, Flask, REST APIs, Asynchronous Python, Streamlit, Gradio, React, Next.js, Responsive Applications, API Integration
-- **K. MLOps, LLMOps & Deployment:** Docker, GitHub Actions, CI/CD, MLflow, Model Deployment, Monitoring, Render, Heroku, Vercel, AWS, Azure, GCP
+| Category | Technologies & Concepts |
+|---|---|
+| **Programming & Software Eng.** | `Python` · `SQL` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Git` · `GitHub` · `APIs` · `OOP` |
+| **Generative AI & LLMs** | `LLMs` · `RAG` · `LangChain` · `LangGraph` · `LlamaIndex` · `CrewAI` · `Gemini` · `Claude` · `OpenAI API` · `Groq` · `Prompt Eng.` |
+| **Agentic AI & Automation** | `Autonomous Agents` · `Tool Orchestration` · `Multi-Agent Architectures` · `Persistent Memory` · `n8n` · `MCP` |
+| **Machine Learning Engineering** | `Scikit-learn` · `Regression` · `Classification` · `Feature Engineering` · `Cross-Validation` · `Model Serving` |
+| **Deep Learning & Multimodal AI**| `PyTorch` · `TensorFlow` · `Transformers` · `Hugging Face` · `Whisper` · `Vision-Language Models` · `OpenCV` |
+| **Data Science** | `Statistics` · `EDA` · `Predictive Modeling` · `Pandas` · `NumPy` · `Forecasting` · `Data Visualization` |
+| **Data Analytics & BI** | `SQL Analytics` · `Excel` · `Power BI` · `Dashboards` · `KPI Reporting` · `Data Cleaning` |
+| **Data Engineering** | `ETL/ELT` · `Data Pipelines` · `PostgreSQL` · `MySQL` · `MongoDB` · `PySpark` · `Apache Airflow` · `dbt` |
+| **Vector Databases & Search** | `FAISS` · `ChromaDB` · `Pinecone` · `Weaviate` · `Semantic Retrieval` · `Hybrid Search` |
+| **Backend & Full-Stack** | `FastAPI` · `Flask` · `REST APIs` · `Streamlit` · `Gradio` · `React` · `Next.js` · `API Integration` |
+| **MLOps & Deployment** | `Docker` · `GitHub Actions` · `CI/CD` · `MLflow` · `AWS` · `Azure` · `GCP` · `Render` · `Vercel` |
 
 ---
 
@@ -117,8 +119,10 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 *(These topics reflect my active learning roadmap and expansion into advanced concepts.)*
 
-- **LLM Evaluation & AI Reliability:** RAGAS, DeepEval, LangSmith, Faithfulness, Answer Relevance, Context Precision, Context Recall, Hallucination Detection, Agent Evaluation, Tracing, Observability, Guardrails.
-- **Advanced AI Engineering:** PEFT, LoRA, Fine-Tuning, Quantization, Inference Optimization, Graph RAG, AI Security, Evaluation Pipelines, Scalable AI Architecture.
+| Domain | Focus Areas |
+|---|---|
+| **LLM Evaluation & AI Reliability** | `RAGAS` · `DeepEval` · `LangSmith` · `Faithfulness` · `Hallucination Detection` · `Agent Evaluation` · `Guardrails` |
+| **Advanced AI Engineering** | `PEFT` · `LoRA` · `Fine-Tuning` · `Quantization` · `Graph RAG` · `AI Security` · `Scalable AI Architecture` |
 
 ---
 
