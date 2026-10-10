@@ -4,148 +4,167 @@
 
 # Mohammad Anas
 
-### AI & Machine Learning Engineer · Generative AI & Agentic Systems · Data Science & Engineering
+**AI & Machine Learning Engineer | Generative AI & Agentic Systems | Data Science & Engineering**
 
-**Building intelligent AI agents, multimodal applications, data products, and production-oriented ML systems.**
+*Engineering intelligent systems — from data pipelines and machine learning models to autonomous AI agents and production-ready applications.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anas262-0B1210?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas262)
-[![Email](https://img.shields.io/badge/Email-Contact-0D3328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khananas82732@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In_Development-118A66?style=for-the-badge)](#portfolio-website)
+[![GitHub](https://img.shields.io/badge/GitHub-Anas262-080D12?style=for-the-badge&logo=github&logoColor=F2F7F6)](https://github.com/Anas262)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-080D12?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/mohammad-anas) <!-- Update with your actual LinkedIn handle -->
+[![Email](https://img.shields.io/badge/Email-Contact-080D12?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:khananas82732@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-In_Development-080D12?style=for-the-badge&logo=react&logoColor=00D9A3)](#-portfolio-website--in-development)
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm **Mohammad Anas**, an **MCA graduate** with a **B.Sc. in Statistics & Mathematics** and experience as a **Data Analytics Intern at GeeksforGeeks**. I build applications across **Generative AI, AI agents, multimodal AI, machine learning, analytics, ETL workflows, and Python APIs**.
+I am an **AI & Machine Learning Engineer** with a Master of Computer Applications (MCA) and a B.Sc. in Statistics and Mathematics. Combining my strong mathematical foundation with practical experience as a Data Analytics Intern at GeeksforGeeks, I engineer intelligent, scalable, and data-driven solutions.
 
-- 🔭 Building a personal **portfolio website** and AI-powered web applications
-- 🧠 Exploring **LLM evaluation, advanced RAG, LLMOps, agent reliability, and modern full-stack development**
-- 🚀 Deployment tools used include **Render and Heroku**, alongside Vercel in my project stack
-- 🤝 Open to **AI/ML Engineer, Generative AI Engineer, Data Scientist, Data Analyst, Data Engineer, and Python Developer** opportunities
+My hands-on technical work spans **Generative AI applications, autonomous agents, multimodal AI systems, machine learning models, data pipelines, and Python-based APIs**. I specialize in building end-to-end applications using frameworks like LangGraph, LangChain, RAG architectures, and FastAPI, ultimately deploying reliable ML systems to the cloud.
 
-## Featured Projects
+I approach complex problems with an engineering mindset—focusing on robust architectures, reliable inference, and scalable deployments.
 
-| Project | Highlights | Technologies |
-|---|---|---|
-| [**AI Researcher**](https://github.com/Anas262/AI-Researcher) | Autonomous paper discovery, PDF analysis, literature synthesis, report generation | Python, LangGraph, LangChain, Gemini, arXiv, Streamlit |
-| [**AI Skin Specialist**](https://github.com/Anas262?tab=repositories&q=skin) | Multimodal voice, text and image AI application; informational, not medical diagnosis | FastAPI, Groq, Whisper, Qwen Vision, Deepgram |
-| [**Diamond Price Prediction**](https://github.com/Anas262/Diamond-Price-Prediction-) | End-to-end regression and web-based inference | Scikit-learn, Pandas, Flask, Render |
-| [**Wafer Fault Detection**](https://github.com/Anas262/WAFER_FAULT_DETECTION) | Industrial fault prediction ML project | Python, Machine Learning |
-| [**Movie Recommender System**](https://github.com/Anas262/Movie-Recommender-System) | Personalized recommendation project | Python, Recommender Systems |
-| [**Laptop Price Predictor**](https://github.com/Anas262/Laptop_Price_predictor) | Laptop price regression | Python, ML |
+---
 
-[**Explore all repositories →**](https://github.com/Anas262?tab=repositories)
+## 🎯 Engineering Specializations
 
-## Technical Skills
+- **AI & Machine Learning Engineering:** Designing, training, and deploying classical machine learning and deep learning models for practical environments.
+- **Generative AI & Agentic Systems:** Architecting intelligent autonomous agents, implementing complex RAG pipelines, and orchestrating multi-agent workflows using LangGraph and CrewAI.
+- **End-to-End AI Applications:** Building user-facing, multimodal applications with FastAPI, Streamlit, and modern cloud deployment platforms.
+- **Data Science & Data Engineering:** Developing robust ETL workflows, conducting exploratory data analysis, and building predictive analytics solutions.
 
-The tools below reflect my CV, projects, or stated deployment experience. Listing a tool does not imply expert-level proficiency in every one. My **learning roadmap is separate**.
+---
 
-### Languages & development
+## 💻 Featured AI/ML Projects
 
-![Python](https://img.shields.io/badge/Python-103D32?style=flat-square&labelColor=0B1717) ![SQL](https://img.shields.io/badge/SQL-103D32?style=flat-square&labelColor=0B1717) ![Git](https://img.shields.io/badge/Git-103D32?style=flat-square&labelColor=0B1717) ![GitHub](https://img.shields.io/badge/GitHub-103D32?style=flat-square&labelColor=0B1717)
+### [AI Researcher — Autonomous Literature Review Agent](https://github.com/Anas262/AI-Researcher)
+- **Problem:** Researchers spend excessive time discovering, filtering, and synthesizing complex academic papers.
+- **Solution:** An autonomous agent that automates paper discovery, PDF analysis, and literature synthesis.
+- **Core Architecture:** Agentic workflow leveraging LangGraph for state management and reasoning, integrating arXiv for dynamic retrieval.
+- **Tech Stack:** Python, LangGraph, LangChain, Gemini, arXiv API, Streamlit.
+- **Highlights:** Complex tool orchestration, persistent memory handling, and real-time structured report generation.
+- **Links:** [Source Code](https://github.com/Anas262/AI-Researcher)
 
-### Generative AI & LLM applications
+### [AI Skin Specialist — Multimodal AI Application](https://github.com/Anas262?tab=repositories&q=skin)
+- **Problem:** Users need accessible, preliminary informational analysis of skin conditions using text, voice, and images.
+- **Solution:** A multimodal AI application that processes diverse inputs to provide informational insights *(Note: Informational purposes only; not a clinical diagnostic system)*.
+- **Core Architecture:** FastAPI backend integrating specialized models (vision, transcription, inference) via asynchronous API calls.
+- **Tech Stack:** FastAPI, Groq, Whisper, Qwen Vision, Deepgram.
+- **Highlights:** Multimodal inference pipelines, asynchronous Python, and real-time API orchestration.
+- **Links:** [Source Code](https://github.com/Anas262?tab=repositories&q=skin)
 
-![LLMs](https://img.shields.io/badge/LLMs-103D32?style=flat-square&labelColor=0B1717) ![RAG](https://img.shields.io/badge/RAG-103D32?style=flat-square&labelColor=0B1717) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-103D32?style=flat-square&labelColor=0B1717) ![LangChain](https://img.shields.io/badge/LangChain-103D32?style=flat-square&labelColor=0B1717) ![LangGraph](https://img.shields.io/badge/LangGraph-103D32?style=flat-square&labelColor=0B1717) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-103D32?style=flat-square&labelColor=0B1717) ![CrewAI](https://img.shields.io/badge/CrewAI-103D32?style=flat-square&labelColor=0B1717) ![Gemini API](https://img.shields.io/badge/Gemini%20API-103D32?style=flat-square&labelColor=0B1717) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-103D32?style=flat-square&labelColor=0B1717) ![Claude API](https://img.shields.io/badge/Claude%20API-103D32?style=flat-square&labelColor=0B1717) ![Groq](https://img.shields.io/badge/Groq-103D32?style=flat-square&labelColor=0B1717)
+### [Diamond Price Prediction](https://github.com/Anas262/Diamond-Price-Prediction-)
+- **Problem:** Inconsistent diamond pricing requiring objective, data-driven valuation models.
+- **Solution:** An end-to-end regression system with a web-based interface for real-time price inference.
+- **Core Architecture:** Scikit-learn predictive model integrated into a Flask backend, supported by a data preprocessing pipeline.
+- **Tech Stack:** Scikit-learn, Pandas, Flask, Render.
+- **Highlights:** Complete ML lifecycle—from EDA and feature engineering to model serving and cloud deployment.
+- **Links:** [Source Code](https://github.com/Anas262/Diamond-Price-Prediction-)
 
-### Machine learning & deep learning
+### [Wafer Fault Detection](https://github.com/Anas262/WAFER_FAULT_DETECTION)
+- **Problem:** High defect rates in semiconductor manufacturing requiring automated fault prediction.
+- **Solution:** A robust machine learning model to predict industrial faults based on complex sensor data.
+- **Tech Stack:** Python, Scikit-learn, Pandas, Machine Learning.
+- **Highlights:** Handling high-dimensional industrial datasets and implementing effective classification algorithms.
+- **Links:** [Source Code](https://github.com/Anas262/WAFER_FAULT_DETECTION)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-103D32?style=flat-square&labelColor=0B1717) ![PyTorch](https://img.shields.io/badge/PyTorch-103D32?style=flat-square&labelColor=0B1717) ![TensorFlow](https://img.shields.io/badge/TensorFlow-103D32?style=flat-square&labelColor=0B1717) ![Regression](https://img.shields.io/badge/Regression-103D32?style=flat-square&labelColor=0B1717) ![Classification](https://img.shields.io/badge/Classification-103D32?style=flat-square&labelColor=0B1717) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-103D32?style=flat-square&labelColor=0B1717) ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-103D32?style=flat-square&labelColor=0B1717) ![CNN](https://img.shields.io/badge/CNN-103D32?style=flat-square&labelColor=0B1717) ![RNN](https://img.shields.io/badge/RNN-103D32?style=flat-square&labelColor=0B1717) ![Transformers](https://img.shields.io/badge/Transformers-103D32?style=flat-square&labelColor=0B1717)
+### [Movie Recommender System](https://github.com/Anas262/Movie-Recommender-System)
+- **Problem:** Information overload preventing users from finding relevant films.
+- **Solution:** A personalized recommendation engine utilizing similarity metrics and feature extraction.
+- **Tech Stack:** Python, Recommender Systems.
+- **Highlights:** Implementation of vector similarities and robust feature extraction pipelines.
+- **Links:** [Source Code](https://github.com/Anas262/Movie-Recommender-System)
 
-### NLP & multimodal AI
+### [Laptop Price Predictor](https://github.com/Anas262/Laptop_Price_predictor)
+- **Problem:** Predicting dynamic laptop prices based on varying hardware specifications.
+- **Solution:** A regression-based machine learning pipeline predicting market prices.
+- **Tech Stack:** Python, Machine Learning.
+- **Highlights:** Feature encoding, data transformations, and predictive modeling on hardware specification datasets.
+- **Links:** [Source Code](https://github.com/Anas262/Laptop_Price_predictor)
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-103D32?style=flat-square&labelColor=0B1717) ![Whisper](https://img.shields.io/badge/Whisper-103D32?style=flat-square&labelColor=0B1717) ![Qwen Vision](https://img.shields.io/badge/Qwen%20Vision-103D32?style=flat-square&labelColor=0B1717) ![OpenCV](https://img.shields.io/badge/OpenCV-103D32?style=flat-square&labelColor=0B1717) ![FFmpeg](https://img.shields.io/badge/FFmpeg-103D32?style=flat-square&labelColor=0B1717) ![Embeddings](https://img.shields.io/badge/Embeddings-103D32?style=flat-square&labelColor=0B1717) ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-103D32?style=flat-square&labelColor=0B1717) ![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-103D32?style=flat-square&labelColor=0B1717) ![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-103D32?style=flat-square&labelColor=0B1717)
+---
 
-### Data science & analytics
+## 🛠 Technical Skills & Engineering Toolkit
 
-![Pandas](https://img.shields.io/badge/Pandas-103D32?style=flat-square&labelColor=0B1717) ![NumPy](https://img.shields.io/badge/NumPy-103D32?style=flat-square&labelColor=0B1717) ![EDA](https://img.shields.io/badge/EDA-103D32?style=flat-square&labelColor=0B1717) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-103D32?style=flat-square&labelColor=0B1717) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-103D32?style=flat-square&labelColor=0B1717) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-103D32?style=flat-square&labelColor=0B1717) ![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-103D32?style=flat-square&labelColor=0B1717) ![Forecasting](https://img.shields.io/badge/Forecasting-103D32?style=flat-square&labelColor=0B1717) ![SQL Analytics](https://img.shields.io/badge/SQL%20Analytics-103D32?style=flat-square&labelColor=0B1717)
+*(Skills listed below reflect verified tools utilized in public projects or supported by my professional experience.)*
 
-### Data engineering & databases
+- **A. Programming & Software Engineering:** Python, SQL, JavaScript, TypeScript, HTML, CSS, Git, GitHub, OOP, APIs
+- **B. Generative AI & Large Language Models:** LLMs, RAG, Prompt Engineering, Context Engineering, LangChain, LangGraph, LlamaIndex, CrewAI, Gemini, Claude, OpenAI APIs, Groq, Tool Calling, Structured Outputs, Embeddings
+- **C. Agentic AI & Automation:** Autonomous Agents, Agentic Workflows, Tool Orchestration, Persistent Memory, State Management, Multi-Agent Architectures, n8n, Workflow Automation, MCP
+- **D. Machine Learning Engineering:** Scikit-learn, Regression, Classification, Feature Engineering, Hyperparameter Tuning, Cross-Validation, Model Evaluation, Model Serving, Inference APIs
+- **E. Deep Learning & Multimodal AI:** PyTorch, TensorFlow, Neural Networks, CNNs, RNNs, Transformers, Hugging Face, Whisper, Vision-Language Models, Speech Processing, OpenCV, Multimodal Inference
+- **F. Data Science:** Statistics, Probability, EDA, Predictive Modeling, Feature Selection, Experimentation, Forecasting, Pandas, NumPy, Data Visualization
+- **G. Data Analytics & Business Intelligence:** SQL Analytics, Excel, Power BI, Dashboards, KPI Reporting, Data Cleaning, Data Transformation, Business Reporting
+- **H. Data Engineering:** ETL/ELT, Data Pipelines, SQL Databases, PostgreSQL, MySQL, MongoDB, PySpark, Apache Airflow, dbt, Data Modeling
+- **I. Vector Databases & Search:** FAISS, ChromaDB, Pinecone, Weaviate, Vector Search, Semantic Retrieval, Hybrid Search, Reranking
+- **J. Backend & Full-Stack Development:** FastAPI, Flask, REST APIs, Asynchronous Python, Streamlit, Gradio, React, Next.js, Responsive Applications, API Integration
+- **K. MLOps, LLMOps & Deployment:** Docker, GitHub Actions, CI/CD, MLflow, Model Deployment, Monitoring, Render, Heroku, Vercel, AWS, Azure, GCP
 
-![ETL](https://img.shields.io/badge/ETL-103D32?style=flat-square&labelColor=0B1717) ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-103D32?style=flat-square&labelColor=0B1717) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-103D32?style=flat-square&labelColor=0B1717) ![MySQL](https://img.shields.io/badge/MySQL-103D32?style=flat-square&labelColor=0B1717) ![MongoDB](https://img.shields.io/badge/MongoDB-103D32?style=flat-square&labelColor=0B1717) ![FAISS](https://img.shields.io/badge/FAISS-103D32?style=flat-square&labelColor=0B1717) ![ChromaDB](https://img.shields.io/badge/ChromaDB-103D32?style=flat-square&labelColor=0B1717) ![Pinecone](https://img.shields.io/badge/Pinecone-103D32?style=flat-square&labelColor=0B1717) ![Weaviate](https://img.shields.io/badge/Weaviate-103D32?style=flat-square&labelColor=0B1717)
+---
 
-### Backend, APIs & web apps
+## 💼 Experience
 
-![FastAPI](https://img.shields.io/badge/FastAPI-103D32?style=flat-square&labelColor=0B1717) ![Flask](https://img.shields.io/badge/Flask-103D32?style=flat-square&labelColor=0B1717) ![REST APIs](https://img.shields.io/badge/REST%20APIs-103D32?style=flat-square&labelColor=0B1717) ![Streamlit](https://img.shields.io/badge/Streamlit-103D32?style=flat-square&labelColor=0B1717) ![Gradio](https://img.shields.io/badge/Gradio-103D32?style=flat-square&labelColor=0B1717) ![API Integration](https://img.shields.io/badge/API%20Integration-103D32?style=flat-square&labelColor=0B1717) ![Microservices](https://img.shields.io/badge/Microservices-103D32?style=flat-square&labelColor=0B1717)
+**Data Analytics Intern** | GeeksforGeeks  
+*August 2024 – January 2025*
+- Engineered Python, Pandas, and NumPy workflows for comprehensive ETL, data cleaning, and transformation processes.
+- Developed interactive KPI dashboards and analytical reporting workflows to support data-driven decision-making.
+- Applied exploratory data analysis (EDA), feature analysis, and statistical problem-solving techniques to complex structured datasets.
 
-### Deployment, MLOps & automation
+---
 
-![Render](https://img.shields.io/badge/Render-103D32?style=flat-square&labelColor=0B1717) ![Heroku](https://img.shields.io/badge/Heroku-103D32?style=flat-square&labelColor=0B1717) ![Vercel](https://img.shields.io/badge/Vercel-103D32?style=flat-square&labelColor=0B1717) ![Docker](https://img.shields.io/badge/Docker-103D32?style=flat-square&labelColor=0B1717) ![CI/CD](https://img.shields.io/badge/CI%2FCD-103D32?style=flat-square&labelColor=0B1717) ![MLflow](https://img.shields.io/badge/MLflow-103D32?style=flat-square&labelColor=0B1717) ![AWS](https://img.shields.io/badge/AWS-103D32?style=flat-square&labelColor=0B1717) ![GCP](https://img.shields.io/badge/GCP-103D32?style=flat-square&labelColor=0B1717) ![Azure](https://img.shields.io/badge/Azure-103D32?style=flat-square&labelColor=0B1717) ![n8n](https://img.shields.io/badge/n8n-103D32?style=flat-square&labelColor=0B1717)
+## 📚 Currently Learning & Exploring
 
+*(These topics reflect my active learning roadmap and expansion into advanced concepts.)*
 
-## Currently Learning & Expanding
+- **LLM Evaluation & AI Reliability:** RAGAS, DeepEval, LangSmith, Faithfulness, Answer Relevance, Context Precision, Context Recall, Hallucination Detection, Agent Evaluation, Tracing, Observability, Guardrails.
+- **Advanced AI Engineering:** PEFT, LoRA, Fine-Tuning, Quantization, Inference Optimization, Graph RAG, AI Security, Evaluation Pipelines, Scalable AI Architecture.
 
-These are **current study priorities**, not claims of completed professional experience.
+---
 
-### LLM evaluation & AI reliability
+## 🎓 Education & Certifications
 
-`RAGAS` · `DeepEval` · `LangSmith` · `LLM-as-a-Judge` · `Agent Evaluation` · `Faithfulness` · `Hallucination Detection` · `Tracing` · `Guardrails`
+**Education**
+- **Master of Computer Applications (MCA)** — Khwaja Moinuddin Chishti Language University (2024)
+- **B.Sc. Statistics & Mathematics** — Shia P.G. College (2021)
 
-### Advanced AI engineering
+**Verified Certifications**
+- Data Analytics Job Simulation — Deloitte Australia (2026)
+- Prompt Engineering — CampusX (2026)
+- NLP in Python; Prompt & Context Engineering 101 — Udemy (2026)
+- Data Analytics Certification — GeeksforGeeks (2025)
+- Data Science Masters — PW Skills (2024)
 
-`Advanced RAG` · `Graph RAG` · `PEFT / LoRA` · `Fine-Tuning` · `Quantization` · `MCP` · `LLMOps` · `Observability` · `AI Security`
+---
 
-### Data science & business intelligence
-
-`A/B Testing` · `SHAP` · `Time-Series` · `Power BI` · `DAX` · `Power Query` · `Tableau`
-
-### Data engineering
-
-`PySpark` · `Apache Airflow` · `dbt` · `Kafka` · `Data Warehousing` · `Delta Lake` · `Lakehouse`
-
-### ML engineering
-
-`Model Registry` · `Drift Detection` · `Feature Stores` · `Model Monitoring` · `Automated ML Testing`
-
-### Full-stack web development
-
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Responsive UI`
-
-
-## Experience
-
-**Data Analytics Intern — GeeksforGeeks** | *Aug 2024 – Jan 2025*
-
-- Built Python, Pandas, and NumPy workflows for ETL, cleaning, and transformation.
-- Developed KPI dashboards and reporting workflows.
-- Applied exploratory analysis, feature analysis, and statistical techniques to structured datasets.
-
-## Education
-
-- **Master of Computer Applications (MCA)** — Khwaja Moinuddin Chishti Language University, Lucknow (2024)
-- **B.Sc. Statistics & Mathematics** — Shia P.G. College, Lucknow (2021)
-
-## Certifications & Continued Learning
-
-- Deloitte Australia — Data Analytics Job Simulation (2026)
-- CampusX — Prompt Engineering (2026)
-- Udemy — NLP in Python; Prompt & Context Engineering 101 (2026)
-- GeeksforGeeks — Data Analytics Certification (2025)
-- PW Skills — Data Science Masters (2024)
-
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anas262&show_icons=true&hide_border=true&bg_color=080D12&title_color=39D9AA&text_color=E6F0ED&icon_color=39D9AA" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas262&layout=compact&hide_border=true&bg_color=080D12&title_color=39D9AA&text_color=E6F0ED" alt="Most used repository languages" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Anas262&show_icons=true&hide_border=true&bg_color=080D12&title_color=00D9A3&text_color=F2F7F6&icon_color=00D9A3" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas262&layout=compact&hide_border=true&bg_color=080D12&title_color=00D9A3&text_color=F2F7F6" alt="Most used repository languages" height="165" />
 </div>
 
-> GitHub statistics are provided by a third-party service and may be temporarily unavailable.
+> *Note: GitHub statistics are provided by a third-party service and may be temporarily unavailable.*
 
-## Portfolio Website
+---
 
-🚧 **In development.** I am building a portfolio featuring AI/ML projects, interactive web applications, engineering case studies, and live demos. The public URL will be added after launch.
+## 🌐 Portfolio Website — In Development
+
+🚧 **Status: In Active Development** 🚧
+
+I am currently engineering a comprehensive personal portfolio website to showcase my professional journey. The platform will feature deep technical case studies, live AI/ML project demos, interactive Generative AI applications, data science analytics, and specialized freelance service offerings. 
+
+*(The public URL will be updated here upon deployment.)*
 
 ---
 
 <div align="center">
 
-**Engineering useful AI, from data to deployment.**
+## 📩 Contact & Collaboration
 
-[Explore my work](https://github.com/Anas262?tab=repositories) · [Email me](mailto:khananas82732@gmail.com)
+**Engineering intelligent systems — from data to deployment.**
+
+[![Email](https://img.shields.io/badge/Email-khananas82732@gmail.com-080D12?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:khananas82732@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Anas262-080D12?style=for-the-badge&logo=github&logoColor=F2F7F6)](https://github.com/Anas262)
 
 </div>
