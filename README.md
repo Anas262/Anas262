@@ -83,23 +83,56 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ---
 
-## 🛠 Technical Skills & Engineering Toolkit
+## ⚡ Engineering Arsenal
 
-*(Skills listed below reflect verified tools utilized in public projects or supported by my professional experience.)*
+<div align="center">
 
-| Category | Technologies & Concepts |
-|---|---|
-| **Programming & Software Eng.** | `Python` · `SQL` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Git` · `GitHub` · `APIs` · `OOP` |
-| **Generative AI & LLMs** | `LLMs` · `RAG` · `LangChain` · `LangGraph` · `LlamaIndex` · `CrewAI` · `Gemini` · `Claude` · `OpenAI API` · `Groq` · `Prompt Eng.` |
-| **Agentic AI & Automation** | `Autonomous Agents` · `Tool Orchestration` · `Multi-Agent Architectures` · `Persistent Memory` · `n8n` · `MCP` |
-| **Machine Learning Engineering** | `Scikit-learn` · `Regression` · `Classification` · `Feature Engineering` · `Cross-Validation` · `Model Serving` |
-| **Deep Learning & Multimodal AI**| `PyTorch` · `TensorFlow` · `Transformers` · `Hugging Face` · `Whisper` · `Vision-Language Models` · `OpenCV` |
-| **Data Science** | `Statistics` · `EDA` · `Predictive Modeling` · `Pandas` · `NumPy` · `Forecasting` · `Data Visualization` |
-| **Data Analytics & BI** | `SQL Analytics` · `Excel` · `Power BI` · `Dashboards` · `KPI Reporting` · `Data Cleaning` |
-| **Data Engineering** | `ETL/ELT` · `Data Pipelines` · `PostgreSQL` · `MySQL` · `MongoDB` · `PySpark` · `Apache Airflow` · `dbt` |
-| **Vector Databases & Search** | `FAISS` · `ChromaDB` · `Pinecone` · `Weaviate` · `Semantic Retrieval` · `Hybrid Search` |
-| **Backend & Full-Stack** | `FastAPI` · `Flask` · `REST APIs` · `Streamlit` · `Gradio` · `React` · `Next.js` · `API Integration` |
-| **MLOps & Deployment** | `Docker` · `GitHub Actions` · `CI/CD` · `MLflow` · `AWS` · `Azure` · `GCP` · `Render` · `Vercel` |
+### Languages & Core Engineering
+![Python](https://img.shields.io/badge/Python-080D12?style=for-the-badge&logo=python&logoColor=00D9A3)
+![SQL](https://img.shields.io/badge/SQL-080D12?style=for-the-badge&logo=sqlite&logoColor=00D9A3)
+![JavaScript](https://img.shields.io/badge/JavaScript-080D12?style=for-the-badge&logo=javascript&logoColor=00D9A3)
+![TypeScript](https://img.shields.io/badge/TypeScript-080D12?style=for-the-badge&logo=typescript&logoColor=00D9A3)
+![Git](https://img.shields.io/badge/Git-080D12?style=for-the-badge&logo=git&logoColor=00D9A3)
+![APIs](https://img.shields.io/badge/REST_APIs-080D12?style=for-the-badge&logo=postman&logoColor=00D9A3)
+
+### Generative AI & Agentic Systems
+![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-080D12?style=for-the-badge&logo=openai&logoColor=00D9A3)
+![LangChain](https://img.shields.io/badge/LangChain-080D12?style=for-the-badge&logo=chainlink&logoColor=00D9A3)
+![LangGraph](https://img.shields.io/badge/LangGraph-080D12?style=for-the-badge&logo=graphql&logoColor=00D9A3)
+![CrewAI](https://img.shields.io/badge/CrewAI-080D12?style=for-the-badge&logo=robotframework&logoColor=00D9A3)
+![Gemini](https://img.shields.io/badge/Google_Gemini-080D12?style=for-the-badge&logo=googlegemini&logoColor=00D9A3)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-080D12?style=for-the-badge&logo=anthropic&logoColor=00D9A3)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-080D12?style=for-the-badge&logo=n8n&logoColor=00D9A3)
+
+### ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-080D12?style=for-the-badge&logo=pytorch&logoColor=00D9A3)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-080D12?style=for-the-badge&logo=tensorflow&logoColor=00D9A3)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-080D12?style=for-the-badge&logo=scikitlearn&logoColor=00D9A3)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-080D12?style=for-the-badge&logo=huggingface&logoColor=00D9A3)
+![OpenCV](https://img.shields.io/badge/OpenCV-080D12?style=for-the-badge&logo=opencv&logoColor=00D9A3)
+
+### Data Engineering & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080D12?style=for-the-badge&logo=postgresql&logoColor=00D9A3)
+![MongoDB](https://img.shields.io/badge/MongoDB-080D12?style=for-the-badge&logo=mongodb&logoColor=00D9A3)
+![Apache Airflow](https://img.shields.io/badge/Airflow-080D12?style=for-the-badge&logo=apacheairflow&logoColor=00D9A3)
+![Pinecone](https://img.shields.io/badge/Pinecone-080D12?style=for-the-badge&logo=pinecone&logoColor=00D9A3)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-080D12?style=for-the-badge&logo=chroma&logoColor=00D9A3)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-080D12?style=for-the-badge&logo=pandas&logoColor=00D9A3)
+![NumPy](https://img.shields.io/badge/NumPy-080D12?style=for-the-badge&logo=numpy&logoColor=00D9A3)
+![Power BI](https://img.shields.io/badge/Power_BI-080D12?style=for-the-badge&logo=powerbi&logoColor=00D9A3)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-080D12?style=for-the-badge&logo=plotly&logoColor=00D9A3)
+
+### Backend & Cloud MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-080D12?style=for-the-badge&logo=fastapi&logoColor=00D9A3)
+![Flask](https://img.shields.io/badge/Flask-080D12?style=for-the-badge&logo=flask&logoColor=00D9A3)
+![Docker](https://img.shields.io/badge/Docker-080D12?style=for-the-badge&logo=docker&logoColor=00D9A3)
+![AWS](https://img.shields.io/badge/AWS-080D12?style=for-the-badge&logo=amazonwebservices&logoColor=00D9A3)
+![GCP](https://img.shields.io/badge/GCP-080D12?style=for-the-badge&logo=googlecloud&logoColor=00D9A3)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-080D12?style=for-the-badge&logo=githubactions&logoColor=00D9A3)
+
+</div>
 
 ---
 
@@ -113,14 +146,19 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 📚 Current Learning & Horizon
 
-*(These topics reflect my active learning roadmap and expansion into advanced concepts.)*
+<div align="center">
 
-| Domain | Focus Areas |
-|---|---|
-| **LLM Evaluation & AI Reliability** | `RAGAS` · `DeepEval` · `LangSmith` · `Faithfulness` · `Hallucination Detection` · `Agent Evaluation` · `Guardrails` |
-| **Advanced AI Engineering** | `PEFT` · `LoRA` · `Fine-Tuning` · `Quantization` · `Graph RAG` · `AI Security` · `Scalable AI Architecture` |
+![RAGAS](https://img.shields.io/badge/RAGAS-080D12?style=for-the-badge&logo=react&logoColor=F2F7F6)
+![DeepEval](https://img.shields.io/badge/DeepEval-080D12?style=for-the-badge&logo=python&logoColor=F2F7F6)
+![LangSmith](https://img.shields.io/badge/LangSmith-080D12?style=for-the-badge&logo=chainlink&logoColor=F2F7F6)
+![Agent Evaluation](https://img.shields.io/badge/Agent_Evaluation-080D12?style=for-the-badge&logo=google&logoColor=F2F7F6)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-080D12?style=for-the-badge&logo=huggingface&logoColor=F2F7F6)
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-080D12?style=for-the-badge&logo=graphql&logoColor=F2F7F6)
+![AI Security](https://img.shields.io/badge/AI_Security-080D12?style=for-the-badge&logo=security&logoColor=F2F7F6)
+
+</div>
 
 ---
 
