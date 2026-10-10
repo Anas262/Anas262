@@ -2,8 +2,6 @@
 
 <img src="assets/ma-banner.png" width="100%" alt="Mohammad Anas — MA AI engineering brand banner" />
 
-# Mohammad Anas
-
 **AI & Machine Learning Engineer | Generative AI & Agentic Systems | Data Science & Engineering**
 
 *Engineering intelligent systems — from data pipelines and machine learning models to autonomous AI agents and production-ready applications.*
