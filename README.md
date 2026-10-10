@@ -346,19 +346,6 @@ _(Advanced AI engineering concepts and tools I am actively mastering.)_
 
 ---
 
-## 📈 GitHub Activity & Contribution History
-
-**Building, Learning & Shipping — My Engineering Journey**
-
-<div align="center">
-  <img src="assets/heatmaps/2026.svg" alt="2026 Contributions" />
-  <img src="assets/heatmaps/2025.svg" alt="2025 Contributions" />
-  <img src="assets/heatmaps/2024.svg" alt="2024 Contributions" />
-  <img src="assets/heatmaps/2023.svg" alt="2023 Contributions" />
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
