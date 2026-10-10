@@ -1,0 +1,30 @@
+﻿name: Update Contribution Heatmaps
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Run every Sunday at midnight
+  workflow_dispatch:
+
+jobs:
+  update-heatmaps:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Generate Heatmaps
+        run: python generate_heatmaps.py
+        
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/heatmaps/*.svg
+          # Only commit if there are changes
+          git diff --staged --quiet || (git commit -m "chore: auto-update contribution heatmaps" && git push)

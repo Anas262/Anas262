@@ -4,7 +4,7 @@
 
 **AI & Machine Learning Engineer | Generative AI & Agentic Systems | Data Science & Engineering**
 
-*Engineering intelligent systems — from data pipelines and machine learning models to autonomous AI agents and production-ready applications.*
+_Engineering intelligent systems — from data pipelines and machine learning models to autonomous AI agents and production-ready applications._
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anas262-080D12?style=for-the-badge&logo=github&logoColor=F2F7F6)](https://github.com/Anas262)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-080D12?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://www.linkedin.com/in/mohammad-anas123)
@@ -37,6 +37,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ## 💻 Featured AI/ML Projects
 
 ### [AI Researcher — Autonomous Literature Review Agent](https://github.com/Anas262/AI-Researcher)
+
 - **Problem:** Researchers spend excessive time discovering, filtering, and synthesizing complex academic papers.
 - **Solution:** An autonomous agent that automates paper discovery, PDF analysis, and literature synthesis.
 - **Core Architecture:** Agentic workflow leveraging LangGraph for state management and reasoning, integrating arXiv for dynamic retrieval.
@@ -45,14 +46,16 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 - **Links:** [Source Code](https://github.com/Anas262/AI-Researcher)
 
 ### [AI Skin Specialist — Multimodal AI Application](https://github.com/Anas262?tab=repositories&q=skin)
+
 - **Problem:** Users need accessible, preliminary informational analysis of skin conditions using text, voice, and images.
-- **Solution:** A multimodal AI application that processes diverse inputs to provide informational insights *(Note: Informational purposes only; not a clinical diagnostic system)*.
+- **Solution:** A multimodal AI application that processes diverse inputs to provide informational insights _(Note: Informational purposes only; not a clinical diagnostic system)_.
 - **Core Architecture:** FastAPI backend integrating specialized models (vision, transcription, inference) via asynchronous API calls.
 - **Tech Stack:** FastAPI, Groq, Whisper, Qwen Vision, Deepgram.
 - **Highlights:** Multimodal inference pipelines, asynchronous Python, and real-time API orchestration.
 - **Links:** [Source Code](https://github.com/Anas262?tab=repositories&q=skin)
 
 ### [Diamond Price Prediction](https://github.com/Anas262/Diamond-Price-Prediction-)
+
 - **Problem:** Inconsistent diamond pricing requiring objective, data-driven valuation models.
 - **Solution:** An end-to-end regression system with a web-based interface for real-time price inference.
 - **Core Architecture:** Scikit-learn predictive model integrated into a Flask backend, supported by a data preprocessing pipeline.
@@ -61,6 +64,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 - **Links:** [Source Code](https://github.com/Anas262/Diamond-Price-Prediction-)
 
 ### [Wafer Fault Detection](https://github.com/Anas262/WAFER_FAULT_DETECTION)
+
 - **Problem:** High defect rates in semiconductor manufacturing requiring automated fault prediction.
 - **Solution:** A robust machine learning model to predict industrial faults based on complex sensor data.
 - **Tech Stack:** Python, Scikit-learn, Pandas, Machine Learning.
@@ -68,6 +72,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 - **Links:** [Source Code](https://github.com/Anas262/WAFER_FAULT_DETECTION)
 
 ### [Movie Recommender System](https://github.com/Anas262/Movie-Recommender-System)
+
 - **Problem:** Information overload preventing users from finding relevant films.
 - **Solution:** A personalized recommendation engine utilizing similarity metrics and feature extraction.
 - **Tech Stack:** Python, Recommender Systems.
@@ -75,6 +80,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 - **Links:** [Source Code](https://github.com/Anas262/Movie-Recommender-System)
 
 ### [Laptop Price Predictor](https://github.com/Anas262/Laptop_Price_predictor)
+
 - **Problem:** Predicting dynamic laptop prices based on varying hardware specifications.
 - **Solution:** A regression-based machine learning pipeline predicting market prices.
 - **Tech Stack:** Python, Machine Learning.
@@ -90,6 +96,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 <br>
 
 ### 01 — Core Engineering & Languages
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -114,6 +121,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 02 — Generative AI & Agentic Systems
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -138,6 +146,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 03 — Machine Learning & Deep Learning
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -162,6 +171,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 04 — Data Science & Analytics
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -186,10 +196,11 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 05 — Data Engineering & Databases
+
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="assets/tech-icons/postgresql.svg" width="64" height="64" alt="PostgreSQL" /><br>PostgreSQL
+      <img src="assets/tech-icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="120">
       <img src="assets/tech-icons/mysql.svg" width="64" height="64" alt="MySQL" /><br>MySQL
@@ -210,6 +221,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 06 — Backend & Full-Stack Development
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -234,6 +246,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 </table>
 
 ### 07 — Cloud, DevOps & Deployment
+
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -282,7 +295,8 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ## 💼 Experience
 
 **Data Analytics Intern** | GeeksforGeeks  
-*August 2024 – January 2025*
+_August 2024 – January 2025_
+
 - Engineered Python, Pandas, and NumPy workflows for comprehensive ETL, data cleaning, and transformation processes.
 - Developed interactive KPI dashboards and analytical reporting workflows to support data-driven decision-making.
 - Applied exploratory data analysis (EDA), feature analysis, and statistical problem-solving techniques to complex structured datasets.
@@ -291,7 +305,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ## 📚 Currently Exploring
 
-*(Advanced AI engineering concepts and tools I am actively mastering.)*
+_(Advanced AI engineering concepts and tools I am actively mastering.)_
 
 <table align="center">
   <tr>
@@ -318,15 +332,30 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ## 🎓 Education & Certifications
 
 **Education**
+
 - **Master of Computer Applications (MCA)** — Khwaja Moinuddin Chishti Language University (2024)
 - **B.Sc. Statistics & Mathematics** — Shia P.G. College (2021)
 
 **Verified Certifications**
+
 - Data Analytics Job Simulation — Deloitte Australia (2026)
 - Prompt Engineering — CampusX (2026)
 - NLP in Python; Prompt & Context Engineering 101 — Udemy (2026)
 - Data Analytics Certification — GeeksforGeeks (2025)
 - Data Science Masters — PW Skills (2024)
+
+---
+
+## 📈 GitHub Activity & Contribution History
+
+**Building, Learning & Shipping — My Engineering Journey**
+
+<div align="center">
+  <img src="assets/heatmaps/2026.svg" alt="2026 Contributions" />
+  <img src="assets/heatmaps/2025.svg" alt="2025 Contributions" />
+  <img src="assets/heatmaps/2024.svg" alt="2024 Contributions" />
+  <img src="assets/heatmaps/2023.svg" alt="2023 Contributions" />
+</div>
 
 ---
 
@@ -337,7 +366,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas262&layout=compact&hide_border=true&bg_color=080D12&title_color=00D9A3&text_color=F2F7F6" alt="Most used repository languages" height="165" />
 </div>
 
-> *Note: GitHub statistics are provided by a third-party service and may be temporarily unavailable.*
+> _Note: GitHub statistics are provided by a third-party service and may be temporarily unavailable._
 
 ---
 
@@ -345,9 +374,9 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 🚧 **Status: In Active Development** 🚧
 
-I am currently engineering a comprehensive personal portfolio website to showcase my professional journey. The platform will feature deep technical case studies, live AI/ML project demos, interactive Generative AI applications, data science analytics, and specialized freelance service offerings. 
+I am currently engineering a comprehensive personal portfolio website to showcase my professional journey. The platform will feature deep technical case studies, live AI/ML project demos, interactive Generative AI applications, data science analytics, and specialized freelance service offerings.
 
-*(The public URL will be updated here upon deployment.)*
+_(The public URL will be updated here upon deployment.)_
 
 ---
 
