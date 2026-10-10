@@ -117,7 +117,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="assets/tech-icons/langchain.svg" width="64" height="64" alt="LangChain" /><br>LangChain
+      <img src="assets/tech-icons/langchain.svg" width="40" height="40" alt="LangChain" /><br>LangChain
     </td>
     <td align="center" width="120">
       <img src="assets/tech-icons/langgraph.svg" width="64" height="64" alt="LangGraph" /><br>LangGraph
