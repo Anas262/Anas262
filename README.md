@@ -9,7 +9,7 @@
 *Engineering intelligent systems — from data pipelines and machine learning models to autonomous AI agents and production-ready applications.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anas262-080D12?style=for-the-badge&logo=github&logoColor=F2F7F6)](https://github.com/Anas262)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-080D12?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/mohammad-anas) <!-- Update with your actual LinkedIn handle -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-080D12?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://www.linkedin.com/in/mohammad-anas123)
 [![Email](https://img.shields.io/badge/Email-Contact-080D12?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:khananas82732@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-In_Development-080D12?style=for-the-badge&logo=react&logoColor=00D9A3)](#-portfolio-website--in-development)
 
