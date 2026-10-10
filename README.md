@@ -92,23 +92,23 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ### 01 — Generative AI & Agentic Systems
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/langchain.svg" width="42" height="42" alt="LangChain" /><br>LangChain
+    <td align="center" width="110">
+      <img src="assets/tech-icons/langchain.svg" width="52" height="52" alt="LangChain" /><br>LangChain
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/langgraph.svg" width="42" height="42" alt="LangGraph" /><br>LangGraph
+    <td align="center" width="110">
+      <img src="assets/tech-icons/langgraph.svg" width="52" height="52" alt="LangGraph" /><br>LangGraph
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/openai.svg" width="42" height="42" alt="OpenAI" /><br>OpenAI
+    <td align="center" width="110">
+      <img src="assets/tech-icons/openai.svg" width="52" height="52" alt="OpenAI" /><br>OpenAI
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/anthropic.svg" width="42" height="42" alt="Claude" /><br>Claude
+    <td align="center" width="110">
+      <img src="assets/tech-icons/anthropic.svg" width="52" height="52" alt="Claude" /><br>Claude
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/huggingface.svg" width="42" height="42" alt="Hugging Face" /><br>Hugging Face
+    <td align="center" width="110">
+      <img src="assets/tech-icons/huggingface.svg" width="52" height="52" alt="Hugging Face" /><br>Hugging Face
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/googlecloud.svg" width="42" height="42" alt="Gemini" /><br>Gemini
+    <td align="center" width="110">
+      <img src="assets/tech-icons/googlecloud.svg" width="52" height="52" alt="Gemini" /><br>Gemini
     </td>
   </tr>
 </table>
@@ -116,23 +116,23 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ### 02 — Machine Learning & Deep Learning
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/pytorch.svg" width="42" height="42" alt="PyTorch" /><br>PyTorch
+    <td align="center" width="110">
+      <img src="assets/tech-icons/pytorch.svg" width="52" height="52" alt="PyTorch" /><br>PyTorch
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/tensorflow.svg" width="42" height="42" alt="TensorFlow" /><br>TensorFlow
+    <td align="center" width="110">
+      <img src="assets/tech-icons/tensorflow.svg" width="52" height="52" alt="TensorFlow" /><br>TensorFlow
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/scikitlearn.svg" width="42" height="42" alt="Scikit-Learn" /><br>Scikit-learn
+    <td align="center" width="110">
+      <img src="assets/tech-icons/scikitlearn.svg" width="52" height="52" alt="Scikit-Learn" /><br>Scikit-learn
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/keras.svg" width="42" height="42" alt="Keras" /><br>Keras
+    <td align="center" width="110">
+      <img src="assets/tech-icons/keras.svg" width="52" height="52" alt="Keras" /><br>Keras
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/scipy.svg" width="42" height="42" alt="SciPy" /><br>SciPy
+    <td align="center" width="110">
+      <img src="assets/tech-icons/scipy.svg" width="52" height="52" alt="SciPy" /><br>SciPy
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/opencv.svg" width="42" height="42" alt="OpenCV" /><br>OpenCV
+    <td align="center" width="110">
+      <img src="assets/tech-icons/opencv.svg" width="52" height="52" alt="OpenCV" /><br>OpenCV
     </td>
   </tr>
 </table>
@@ -140,23 +140,23 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ### 03 — Data Science & Analytics
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/excel.svg" width="42" height="42" alt="Excel" /><br>Excel
+    <td align="center" width="110">
+      <img src="assets/tech-icons/excel.svg" width="52" height="52" alt="Excel" /><br>Excel
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/powerbi.svg" width="42" height="42" alt="Power BI" /><br>Power BI
+    <td align="center" width="110">
+      <img src="assets/tech-icons/powerbi.svg" width="52" height="52" alt="Power BI" /><br>Power BI
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/tableau.svg" width="42" height="42" alt="Tableau" /><br>Tableau
+    <td align="center" width="110">
+      <img src="assets/tech-icons/tableau.svg" width="52" height="52" alt="Tableau" /><br>Tableau
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/pandas.svg" width="42" height="42" alt="Pandas" /><br>Pandas
+    <td align="center" width="110">
+      <img src="assets/tech-icons/pandas.svg" width="52" height="52" alt="Pandas" /><br>Pandas
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/numpy.svg" width="42" height="42" alt="NumPy" /><br>NumPy
+    <td align="center" width="110">
+      <img src="assets/tech-icons/numpy.svg" width="52" height="52" alt="NumPy" /><br>NumPy
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/plotly.svg" width="42" height="42" alt="Plotly" /><br>Plotly
+    <td align="center" width="110">
+      <img src="assets/tech-icons/plotly.svg" width="52" height="52" alt="Plotly" /><br>Plotly
     </td>
   </tr>
 </table>
@@ -164,23 +164,23 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ### 04 — Data Engineering & Databases
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" /><br>PostgreSQL
+    <td align="center" width="110">
+      <img src="assets/tech-icons/postgresql.svg" width="52" height="52" alt="PostgreSQL" /><br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/mysql.svg" width="42" height="42" alt="MySQL" /><br>MySQL
+    <td align="center" width="110">
+      <img src="assets/tech-icons/mysql.svg" width="52" height="52" alt="MySQL" /><br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/mongodb.svg" width="42" height="42" alt="MongoDB" /><br>MongoDB
+    <td align="center" width="110">
+      <img src="assets/tech-icons/mongodb.svg" width="52" height="52" alt="MongoDB" /><br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/apachespark.svg" width="42" height="42" alt="Apache Spark" /><br>Spark
+    <td align="center" width="110">
+      <img src="assets/tech-icons/apachespark.svg" width="52" height="52" alt="Apache Spark" /><br>Spark
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/airflow.svg" width="42" height="42" alt="Airflow" /><br>Airflow
+    <td align="center" width="110">
+      <img src="assets/tech-icons/airflow.svg" width="52" height="52" alt="Airflow" /><br>Airflow
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/dbt.svg" width="42" height="42" alt="dbt" /><br>dbt
+    <td align="center" width="110">
+      <img src="assets/tech-icons/dbt.svg" width="52" height="52" alt="dbt" /><br>dbt
     </td>
   </tr>
 </table>
@@ -188,43 +188,43 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 ### 05 — Backend, Web & Deployment
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/python.svg" width="42" height="42" alt="Python" /><br>Python
+    <td align="center" width="110">
+      <img src="assets/tech-icons/python.svg" width="52" height="52" alt="Python" /><br>Python
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/fastapi.svg" width="42" height="42" alt="FastAPI" /><br>FastAPI
+    <td align="center" width="110">
+      <img src="assets/tech-icons/fastapi.svg" width="52" height="52" alt="FastAPI" /><br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/django.svg" width="42" height="42" alt="Django" /><br>Django
+    <td align="center" width="110">
+      <img src="assets/tech-icons/django.svg" width="52" height="52" alt="Django" /><br>Django
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/flask.svg" width="42" height="42" alt="Flask" /><br>Flask
+    <td align="center" width="110">
+      <img src="assets/tech-icons/flask.svg" width="52" height="52" alt="Flask" /><br>Flask
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/react.svg" width="42" height="42" alt="React" /><br>React
+    <td align="center" width="110">
+      <img src="assets/tech-icons/react.svg" width="52" height="52" alt="React" /><br>React
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/nextjs.svg" width="42" height="42" alt="Next.js" /><br>Next.js
+    <td align="center" width="110">
+      <img src="assets/tech-icons/nextjs.svg" width="52" height="52" alt="Next.js" /><br>Next.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/linux.svg" width="42" height="42" alt="Linux" /><br>Linux
+    <td align="center" width="110">
+      <img src="assets/tech-icons/linux.svg" width="52" height="52" alt="Linux" /><br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/docker.svg" width="42" height="42" alt="Docker" /><br>Docker
+    <td align="center" width="110">
+      <img src="assets/tech-icons/docker.svg" width="52" height="52" alt="Docker" /><br>Docker
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/aws.svg" width="42" height="42" alt="AWS" /><br>AWS
+    <td align="center" width="110">
+      <img src="assets/tech-icons/aws.svg" width="52" height="52" alt="AWS" /><br>AWS
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/azure.svg" width="42" height="42" alt="Azure" /><br>Azure
+    <td align="center" width="110">
+      <img src="assets/tech-icons/azure.svg" width="52" height="52" alt="Azure" /><br>Azure
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/render.svg" width="42" height="42" alt="Render" /><br>Render
+    <td align="center" width="110">
+      <img src="assets/tech-icons/render.svg" width="52" height="52" alt="Render" /><br>Render
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/vercel.svg" width="42" height="42" alt="Vercel" /><br>Vercel
+    <td align="center" width="110">
+      <img src="assets/tech-icons/vercel.svg" width="52" height="52" alt="Vercel" /><br>Vercel
     </td>
   </tr>
 </table>
@@ -247,19 +247,19 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/ragas.svg" width="42" height="42" alt="RAGAS" /><br>RAGAS
+    <td align="center" width="110">
+      <img src="assets/tech-icons/ragas.svg" width="52" height="52" alt="RAGAS" /><br>RAGAS
     </td>
-    <td align="center" width="96">
-      <img src="assets/tech-icons/mlflow.svg" width="42" height="42" alt="MLflow" /><br>MLflow
+    <td align="center" width="110">
+      <img src="assets/tech-icons/mlflow.svg" width="52" height="52" alt="MLflow" /><br>MLflow
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <br><b>DeepEval &<br>LangSmith</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <br><b>PEFT &<br>LoRA</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <br><b>Graph<br>RAG</b>
     </td>
   </tr>
