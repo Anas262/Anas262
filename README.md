@@ -136,14 +136,14 @@ I approach complex problems with an engineering mindset—focusing on robust arc
     <td align="center" width="90">
       <img src="assets/tech-icons/anthropic.svg" width="48" height="48" alt="Claude" /><br>Claude
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /><br>Hugging Face
     </td>
     <td align="center" width="90">
       <img src="assets/tech-icons/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/crewai.svg" width="48" height="48" alt="CrewAI" /><br>CrewAI
     </td>
