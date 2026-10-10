@@ -97,7 +97,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 01 — Core Engineering & Languages
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/python.svg" width="48" height="48" alt="Python" /><br>Python
@@ -122,7 +122,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 02 — Generative AI & Agentic Systems
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/langchain.svg" width="48" height="48" alt="LangChain" /><br>LangChain
@@ -148,14 +148,14 @@ I approach complex problems with an engineering mindset—focusing on robust arc
       <img src="assets/tech-icons/crewai.svg" width="48" height="48" alt="CrewAI" /><br>CrewAI
     </td>
     <td align="center" width="90">
-      <img src="assets/tech-icons/llamaindex.svg" width="48" height="48" alt="LlamaIndex" /><br>LlamaIndex
+      <img src="assets/tech-icons/llamaindex.png" width="48" height="48" alt="LlamaIndex" /><br>LlamaIndex
     </td>
   </tr>
 </table>
 
 ### 03 — Machine Learning & Deep Learning
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/pytorch.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
@@ -180,7 +180,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 04 — Data Science & Analytics
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/excel.svg" width="48" height="48" alt="Excel" /><br>Excel
@@ -205,7 +205,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 05 — Data Engineering & Databases
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
@@ -230,7 +230,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 06 — Backend & Full-Stack Development
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/fastapi.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
@@ -255,7 +255,7 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ### 07 — Cloud, DevOps & Deployment
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/docker.svg" width="48" height="48" alt="Docker" /><br>Docker
@@ -315,7 +315,7 @@ _August 2024 – January 2025_
 
 _(Advanced AI engineering concepts and tools I am actively mastering.)_
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="assets/tech-icons/ragas.svg" width="48" height="48" alt="RAGAS" /><br>RAGAS
