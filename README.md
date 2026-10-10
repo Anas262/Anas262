@@ -83,56 +83,131 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ---
 
-## ⚡ Engineering Arsenal
+## ⚡ AI Engineering & Technology Stack
 
-<div align="center">
+**The Technologies, Frameworks & Tools Behind My Intelligent Solutions**
 
-### Languages & Core Engineering
-![Python](https://img.shields.io/badge/Python-080D12?style=for-the-badge&logo=python&logoColor=00D9A3)
-![SQL](https://img.shields.io/badge/SQL-080D12?style=for-the-badge&logo=sqlite&logoColor=00D9A3)
-![JavaScript](https://img.shields.io/badge/JavaScript-080D12?style=for-the-badge&logo=javascript&logoColor=00D9A3)
-![TypeScript](https://img.shields.io/badge/TypeScript-080D12?style=for-the-badge&logo=typescript&logoColor=00D9A3)
-![Git](https://img.shields.io/badge/Git-080D12?style=for-the-badge&logo=git&logoColor=00D9A3)
-![APIs](https://img.shields.io/badge/REST_APIs-080D12?style=for-the-badge&logo=postman&logoColor=00D9A3)
+<br>
 
-### Generative AI & Agentic Systems
-![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-080D12?style=for-the-badge&logo=openai&logoColor=00D9A3)
-![LangChain](https://img.shields.io/badge/LangChain-080D12?style=for-the-badge&logo=chainlink&logoColor=00D9A3)
-![LangGraph](https://img.shields.io/badge/LangGraph-080D12?style=for-the-badge&logo=graphql&logoColor=00D9A3)
-![CrewAI](https://img.shields.io/badge/CrewAI-080D12?style=for-the-badge&logo=robotframework&logoColor=00D9A3)
-![Gemini](https://img.shields.io/badge/Google_Gemini-080D12?style=for-the-badge&logo=googlegemini&logoColor=00D9A3)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-080D12?style=for-the-badge&logo=anthropic&logoColor=00D9A3)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-080D12?style=for-the-badge&logo=n8n&logoColor=00D9A3)
+### 01 — Generative AI & Agentic Systems
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/langchain.svg" width="42" height="42" alt="LangChain" /><br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/openai.svg" width="42" height="42" alt="OpenAI" /><br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/anthropic.svg" width="42" height="42" alt="Claude" /><br>Claude
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/huggingface.svg" width="42" height="42" alt="Hugging Face" /><br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/googlecloud.svg" width="42" height="42" alt="Gemini" /><br>Gemini
+    </td>
+    <td align="center" width="96">
+      <br><b>Agentic<br>Workflows</b>
+    </td>
+  </tr>
+</table>
 
-### ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-080D12?style=for-the-badge&logo=pytorch&logoColor=00D9A3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-080D12?style=for-the-badge&logo=tensorflow&logoColor=00D9A3)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-080D12?style=for-the-badge&logo=scikitlearn&logoColor=00D9A3)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-080D12?style=for-the-badge&logo=huggingface&logoColor=00D9A3)
-![OpenCV](https://img.shields.io/badge/OpenCV-080D12?style=for-the-badge&logo=opencv&logoColor=00D9A3)
+### 02 — Machine Learning & Deep Learning
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/pytorch.svg" width="42" height="42" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/tensorflow.svg" width="42" height="42" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/scikitlearn.svg" width="42" height="42" alt="Scikit-Learn" /><br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/opencv.svg" width="42" height="42" alt="OpenCV" /><br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <br><b>Neural<br>Networks</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>Model<br>Evaluation</b>
+    </td>
+  </tr>
+</table>
 
-### Data Engineering & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080D12?style=for-the-badge&logo=postgresql&logoColor=00D9A3)
-![MongoDB](https://img.shields.io/badge/MongoDB-080D12?style=for-the-badge&logo=mongodb&logoColor=00D9A3)
-![Apache Airflow](https://img.shields.io/badge/Airflow-080D12?style=for-the-badge&logo=apacheairflow&logoColor=00D9A3)
-![Pinecone](https://img.shields.io/badge/Pinecone-080D12?style=for-the-badge&logo=pinecone&logoColor=00D9A3)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-080D12?style=for-the-badge&logo=chroma&logoColor=00D9A3)
+### 03 — Data Science & Analytics
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/excel.svg" width="42" height="42" alt="Excel" /><br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/powerbi.svg" width="42" height="42" alt="Power BI" /><br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/tableau.svg" width="42" height="42" alt="Tableau" /><br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/pandas.svg" width="42" height="42" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/numpy.svg" width="42" height="42" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/sql.svg" width="42" height="42" alt="SQL" /><br>SQL
+    </td>
+  </tr>
+</table>
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-080D12?style=for-the-badge&logo=pandas&logoColor=00D9A3)
-![NumPy](https://img.shields.io/badge/NumPy-080D12?style=for-the-badge&logo=numpy&logoColor=00D9A3)
-![Power BI](https://img.shields.io/badge/Power_BI-080D12?style=for-the-badge&logo=powerbi&logoColor=00D9A3)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-080D12?style=for-the-badge&logo=plotly&logoColor=00D9A3)
+### 04 — Data Engineering & Databases
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/mongodb.svg" width="42" height="42" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/airflow.svg" width="42" height="42" alt="Airflow" /><br>Airflow
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/dbt.svg" width="42" height="42" alt="dbt" /><br>dbt
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/qdrant.svg" width="42" height="42" alt="Vector DBs" /><br>Vector DBs
+    </td>
+    <td align="center" width="96">
+      <br><b>Data<br>Pipelines</b>
+    </td>
+  </tr>
+</table>
 
-### Backend & Cloud MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-080D12?style=for-the-badge&logo=fastapi&logoColor=00D9A3)
-![Flask](https://img.shields.io/badge/Flask-080D12?style=for-the-badge&logo=flask&logoColor=00D9A3)
-![Docker](https://img.shields.io/badge/Docker-080D12?style=for-the-badge&logo=docker&logoColor=00D9A3)
-![AWS](https://img.shields.io/badge/AWS-080D12?style=for-the-badge&logo=amazonwebservices&logoColor=00D9A3)
-![GCP](https://img.shields.io/badge/GCP-080D12?style=for-the-badge&logo=googlecloud&logoColor=00D9A3)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-080D12?style=for-the-badge&logo=githubactions&logoColor=00D9A3)
-
-</div>
+### 05 — Backend, Web & Deployment
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/python.svg" width="42" height="42" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/fastapi.svg" width="42" height="42" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/docker.svg" width="42" height="42" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/aws.svg" width="42" height="42" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/github.svg" width="42" height="42" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/render.svg" width="42" height="42" alt="Render" /><br>Render
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -146,19 +221,29 @@ I approach complex problems with an engineering mindset—focusing on robust arc
 
 ---
 
-## 📚 Current Learning & Horizon
+## 📚 Currently Exploring
 
-<div align="center">
+*(Advanced AI engineering concepts and tools I am actively mastering.)*
 
-![RAGAS](https://img.shields.io/badge/RAGAS-080D12?style=for-the-badge&logo=react&logoColor=F2F7F6)
-![DeepEval](https://img.shields.io/badge/DeepEval-080D12?style=for-the-badge&logo=python&logoColor=F2F7F6)
-![LangSmith](https://img.shields.io/badge/LangSmith-080D12?style=for-the-badge&logo=chainlink&logoColor=F2F7F6)
-![Agent Evaluation](https://img.shields.io/badge/Agent_Evaluation-080D12?style=for-the-badge&logo=google&logoColor=F2F7F6)
-![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-080D12?style=for-the-badge&logo=huggingface&logoColor=F2F7F6)
-![Graph RAG](https://img.shields.io/badge/Graph_RAG-080D12?style=for-the-badge&logo=graphql&logoColor=F2F7F6)
-![AI Security](https://img.shields.io/badge/AI_Security-080D12?style=for-the-badge&logo=security&logoColor=F2F7F6)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <br><b>RAGAS &<br>DeepEval</b>
+    </td>
+    <td align="center" width="96">
+      <img src="assets/tech-icons/mlflow.svg" width="42" height="42" alt="MLflow" /><br>MLflow
+    </td>
+    <td align="center" width="96">
+      <br><b>LangSmith &<br>Observability</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>PEFT &<br>LoRA</b>
+    </td>
+    <td align="center" width="96">
+      <br><b>Graph<br>RAG</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
